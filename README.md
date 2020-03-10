@@ -1,5 +1,4 @@
-# Original Prusa i3 MK2 Firmware
-
+# Original Prusa i3 MK2 Firmware for Bear X-axis and extruder.
 ## General instructions
 
 Pre-compiled hex output on PRUSA RESEARCH site: http://prusa3d.com/downloads/firmware/
