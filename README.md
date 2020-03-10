@@ -3,7 +3,7 @@
 
 Pre-compiled hex output not yet available.
 
-//Just download and flash it to the electronics
+
 
 
 ## Build instructions
